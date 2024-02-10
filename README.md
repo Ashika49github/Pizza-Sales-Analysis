@@ -8,14 +8,7 @@ Dataset contains valuable information that could help us optimize our operations
 
    
 **Analysis**
-
-Customer Traffic Analysis: Analyzing how many customers visits each day and exploring whether certain day experience higher sales.
-
-Bestselling Pizzas: Analyzing the data to find out which pizzas are the most popular among our customers. Identifying bestsellers can inform our marketing strategies and help us focus on promoting these crowd favorites.
-
-Revenue and Seasonality: Calculating the total revenue generated over the year to get an overall picture of our financial performance. Additionally, investigating whether there are any seasonal patterns in sales to plan for peak and slow periods.
-
-Menu Optimization and Promotions: Using the data to identify pizzas that are underperforming or receiving little attention.
+Analysis was done on SQL and visualized on Power BI. I chose to use SQL for the analysis because With SQL, you can analyze small and big datasets, investigate problems and generate sales reports faster. I uploaded the dataset first on SQL Server where I did all the analysis before visualizing it on Power BI.
 
 **Key Questions Explored**
  * Total Revenue: Total Revenue generated over the period.
