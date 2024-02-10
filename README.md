@@ -32,7 +32,8 @@ Menu Optimization and Promotions: Using the data to identify pizzas that are und
  * Number of Customers each day & Busiest hours: Number of customer served each day and busy operating hours.
  * Average Orders & Pizza per Day: Average Orders placed per Day & Pizzas sold per day.
 
-  ****Summary of Findings****
+
+****Summary of Findings****
   
 **Most occupied Days & Month:**
   Days-Orders are highest on Friday & Saturday evenings.
@@ -52,6 +53,8 @@ Menu Optimization and Promotions: Using the data to identify pizzas that are und
   Quantity-Brie Carre Pizza contribute minimum to Total Quantities.
   Total Orders-Brie Carre Pizza contribute minimum to Total Orders.
 
+
+
 **Recommendations**
 Based on these findings, some possible recommendations for increasing the pizza sales and customer satisfaction are:
 
@@ -62,6 +65,7 @@ Based on these findings, some possible recommendations for increasing the pizza 
  * Conduct a brief survey among the customers who have purchased the low-selling pizza categories and find out the reasons for their low interest. This will help to improve the existing products or introduce new ones that match the customers’ preferences and expectations.
 
  * Adjust the supply and demand of the pizza according to the busiest days and times, and the seasonal variations, to optimize the efficiency and profitability of the pizza sales.
+   
 
 **Conclusion**
 
