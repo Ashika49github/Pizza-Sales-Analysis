@@ -57,6 +57,9 @@ Menu Optimization and Promotions: Using the data to identify pizzas that are und
 The Pizza Sales Dashboard provides a comprehensive overview of the pizza sales for the company. It indicates that there are some areas of improvement, such as the average order value, the pizza category, the pizza size, and the customer satisfaction. By implementing the recommendations suggested in this report, the company can increase the pizza sales and customer satisfaction.
 
 
+![image](https://github.com/Ashika49github/Pizza-Sales-Analysis/assets/149823297/cc11390e-2b55-46ac-b491-b9bff72a0079)
+![image](https://github.com/Ashika49github/Pizza-Sales-Analysis/assets/149823297/e3511a83-ab60-4893-878d-5a41415be027)
+
 
 
 
