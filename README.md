@@ -52,12 +52,24 @@ Menu Optimization and Promotions: Using the data to identify pizzas that are und
   Quantity-Brie Carre Pizza contribute minimum to Total Quantities.
   Total Orders-Brie Carre Pizza contribute minimum to Total Orders.
 
+**Recommendations**
+Based on these findings, some possible recommendations for increasing the pizza sales and customer satisfaction are:
+
+ * Offer promotions and discounts to customers who order more pizzas or larger sizes, to increase the average order value and the average pizzas per order.
+
+ * Review the sales performance of each pizza category and decide whether to keep, modify, or replace them with new and innovative products.
+
+ * Conduct a brief survey among the customers who have purchased the low-selling pizza categories and find out the reasons for their low interest. This will help to improve the existing products or introduce new ones that match the customers’ preferences and expectations.
+
+ * Adjust the supply and demand of the pizza according to the busiest days and times, and the seasonal variations, to optimize the efficiency and profitability of the pizza sales.
+
 **Conclusion**
 
 The Pizza Sales Dashboard provides a comprehensive overview of the pizza sales for the company. It indicates that there are some areas of improvement, such as the average order value, the pizza category, the pizza size, and the customer satisfaction. By implementing the recommendations suggested in this report, the company can increase the pizza sales and customer satisfaction.
 
 
 ![image](https://github.com/Ashika49github/Pizza-Sales-Analysis/assets/149823297/cc11390e-2b55-46ac-b491-b9bff72a0079)
+
 ![image](https://github.com/Ashika49github/Pizza-Sales-Analysis/assets/149823297/e3511a83-ab60-4893-878d-5a41415be027)
 
 
